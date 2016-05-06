@@ -1,2 +1,5 @@
 # hello-world
-Doing this to understand GitHub
+
+Hi People,
+
+My name is 39.I am a human being. I am passionated for coding
